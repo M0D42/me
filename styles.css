@@ -4,6 +4,7 @@ background-image: url("https://i.imgur.com/ffpbgIP.jpg");
 background-repeat: no-repeat;;
 
   }
- h1{
- size: 40cm;
-  }
+div{
+
+  background-color: rgb(109, 105, 105);
+}
