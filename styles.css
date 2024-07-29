@@ -6,4 +6,5 @@ background-repeat: no-repeat;;
   }
 div{
   background-color: grey;
+  height: 40px;
 }
